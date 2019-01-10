@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">LineageApp</string>
+    <string name="notifications">Notifications</string>
+    <string name="wall">Wall</string>
+    <string name="media">Media</string>
+    <string name="admin_privileges">Admin Privileges</string>
+    <string name="direct_messaging">Direct Messaging</string>
+    <string name="view_your_root">View Your Root</string>
+    <string name="root_history">Root History</string>
+    <string name="view_purchases">View Purchases</string>
 </resources>
