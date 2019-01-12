@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <!--TODO: Add icons for each item-->
+        <item
+            android:id="@+id/nav_notifications"
+            android:title="@string/notifications" />
+        <item
+            android:id="@+id/nav_wall"
+            android:title="@string/wall" />
+        <item
+            android:id="@+id/nav_media"
+            android:title="@string/media" />
+        <item
+            android:id="@+id/nav_admin_privileges"
+            android:title="@string/admin_privileges" />
+        <item
+            android:id="@+id/nav_direct_messaging"
+            android:title="@string/direct_messaging" />
+        <item
+            android:id="@+id/nav_view_your_root"
+            android:title="@string/view_your_root" />
+        <item
+            android:id="@+id/nav_root_history"
+            android:title="@string/root_history" />
+        <item
+            android:id="@+id/nav_view_purchases"
+            android:title="@string/view_purchases" />
+    </group>
+</menu>
