@@ -8,4 +8,7 @@
     <string name="view_your_root">View Your Root</string>
     <string name="root_history">Root History</string>
     <string name="view_purchases">View Purchases</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation Header</string>
 </resources>
